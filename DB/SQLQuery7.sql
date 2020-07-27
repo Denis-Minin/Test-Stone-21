@@ -1,0 +1,1 @@
+exec Show @code = 'CAD', @c_data = '18.07.2020'
